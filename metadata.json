@@ -1,0 +1,8 @@
+{
+  "name": "The Urban Table",
+  "description": "A refined restaurant website demonstration for The Urban Table showcasing a digital menu, table reservations, guest experience tools, and VIP loyalty.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
